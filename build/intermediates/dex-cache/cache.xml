@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\SanjogPractise\Volleymap\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\SanjogPractise\Volleymap\app\build\intermediates\pre-dexed\debug\classes-7b6b396628ccf26a5dffeb4590f0d10a218244fc.jar" />
+    </item>
+    <item
+        jar="D:\SanjogPractise\Volleymap\app\libs\httpclient-4.3.3.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="18f4247ff4572a074444572cee34647c43e7c9c7">
+        <dex dex="D:\SanjogPractise\Volleymap\app\build\intermediates\pre-dexed\debug\httpclient-4.3.3-67ccbe8fa95ecf4295e53f1c01884f7e83c37904.jar" />
+    </item>
+    <item
+        jar="D:\SanjogPractise\Volleymap\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\SanjogPractise\Volleymap\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-7e6b2477359dd3c1c5fd03c555da1ec512b0cc10.jar" />
+    </item>
+    <item
+        jar="D:\SanjogPractise\Volleymap\app\libs\volley.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="D:\SanjogPractise\Volleymap\app\build\intermediates\pre-dexed\debug\volley-1aa8a48443cf4ee4b329379527c851b3cb2f5f5e.jar" />
+    </item>
+    <item
+        jar="C:\Users\g40\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\SanjogPractise\Volleymap\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-3dc4417b3539dc2a9fc015db48001b64b30cb1df.jar" />
+    </item>
+    <item
+        jar="D:\SanjogPractise\Volleymap\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\SanjogPractise\Volleymap\app\build\intermediates\pre-dexed\debug\classes-3ecc419b6bcdc3353bafd436e173360f049da6f3.jar" />
+    </item>
+    <item
+        jar="D:\SanjogPractise\Volleymap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="D:\SanjogPractise\Volleymap\app\build\intermediates\pre-dexed\debug\classes-5c10e191d63c3256d5ab651022b3f9e803098015.jar" />
+    </item>
+
+</items>
